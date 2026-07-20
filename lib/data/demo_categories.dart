@@ -5,7 +5,7 @@ final List<Category> demoCategories = [
 
   Category(
     name: "Mevalar",
-    icon: Icons.apple,
+   icon: Icons.shopping_basket,
   ),
 
   Category(
